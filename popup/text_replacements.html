@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="text_replacements.css" />
+</head>
+
+<body>
+    <div id="popup-content">
+        <div id="popup-header">
+            <h2>Text Replacements</h2>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Replace</th>
+                    <th>With</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- <tr>
+                    <td>text@@</td>
+                    <td>text@1</td>
+                </tr>
+                <tr>
+                    <td>test@@</td>
+                    <td>test@gmail.commmmmmm</td>
+                </tr> -->
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="1">
+                        <input id="key" type="text" style="width: 100%; border: none;" placeholder="Input 1">
+
+                    </td>
+                    <td>
+                        <input id="value" type="text" style="width: 50%; border: none; box-sizing: border-box;"
+                            placeholder="Input 2">
+                    </td>
+                    <td style="border: none">
+                        <button id="add">Add</button>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <div id="error-content" class="hidden">
+        <p>Error.</p>
+        <p>Please try again later.</p>
+    </div>
+    <script src="text_replacements.js"></script>
+</body>
+
+</html>
