@@ -3,7 +3,7 @@
   "name": "Text Replacements",
   "version": "1.0",
   "homepage_url": "https://github.com/SakshamKarnawat/text-replacements-firefox",
-  "description": "Brings the Text Replacements feature found on MacOS/iOS to Firefox. Firefox hasn't developed support for that yet.",
+  "description": "Text Replacements is an extension that brings the Text Replacements feature from MacOS/iOS to Firefox.",
   "icons": {
     "48": "icons/logo-48.png"
   },
