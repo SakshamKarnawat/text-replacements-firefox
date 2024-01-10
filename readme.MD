@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<a href="https://addons.mozilla.org/addon/text-replacements/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Text Replacements for Firefox"></a>
+<a href="https://addons.mozilla.org/addon/text-replacements/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Text Replacements for Firefox" target="_blank"></a>
 </p>
 
 Text Replacements is an extension that brings the Text Replacements feature from MacOS/iOS to Firefox. This is an issue that has been open for a long time ([#1149826](https://bugzilla.mozilla.org/show_bug.cgi?id=1149826)) and there's no timeline provided for its implementation. This extension is a workaround for that.
