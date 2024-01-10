@@ -21,17 +21,11 @@ Text Replacements is an extension that brings the Text Replacements feature from
 4. Refresh the page
 5. Done!
 
+## Issues
+If you find any issues, please open an issue on the [Issues Tab](https://github.com/SakshamKarnawat/text-replacements-firefox/issues).
+
 ## Known issues
 - The extension does not work on some websites like Gmail Message Body, WhatsApp Web, LinkedIn, etc. This is because these websites use a different way to render the text and the extension does not support that yet.
 
 ## Credits
 - Logo made by [berkahicon] from [www.freepik.com](https://www.freepik.com/icon/typography_13777755#fromView=search&term=text&track=ais&page=1&position=30&uuid=cc4043cc-3565-4552-9276-4859fe6bf90c)
-
-
-<!-- Issues:
-- Add Import functionality
-- Add Export functionality
-- Add ability to edit any text replacement
-- Add button saying "need to refresh the page" after any change(s) is/are made
-- Improve the UI
-- Add proper theming (light mode icon + UI / dark mode icon + UI) -->
